@@ -127,7 +127,7 @@ html, body, .tm-layout__wrapper {
     background-color: var(--block-background-color);
 }
 .tm-company-card__name {
-    color: #919191;
+    color: var(--normal-text-color);
 }
 .tm-company-snippet__title {
     color: #919191;
@@ -136,6 +136,10 @@ html, body, .tm-layout__wrapper {
 .tm-user-card {
     background-color: var(--block-background-color);
 }
+.tm-user-card__name {
+    color: var(--normal-text-color);
+}
+
 .tm-user-card__short-info {
     color: #919191;
 }
