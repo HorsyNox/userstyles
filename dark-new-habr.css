@@ -74,6 +74,10 @@ html, body, .tm-layout__wrapper {
 .tm-news-block__title {
     color: var(--normal-text-color);
 }
+.tm-widget-links__link,
+.tm-widget-news__link {
+    color: var(--normal-text-color);
+}
 .tm-page-article__origin {
     background-color: var(--layout-background-color);
 }
