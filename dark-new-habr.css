@@ -190,6 +190,9 @@ html, body, .tm-layout__wrapper {
 .tm-article-poll__answer-label {
     color: var(--normal-text-color);
 }
+.tm-article-poll__answer-progress {
+    background-color: #5e8eac;
+}
 
 
 /* Comments */
