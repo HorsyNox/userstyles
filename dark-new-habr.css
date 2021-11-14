@@ -236,7 +236,8 @@ html, body, .tm-layout__wrapper {
 }
 .tm-comment__header_is-by-op {
     background-color: transparent;
-    border-left: 4px solid var(--border-color);   
+    border-left: 4px solid #548eaa;
+    border-radius: 6px;
 }
 .tm-comment__header_is-new {
     background-color: #333;
