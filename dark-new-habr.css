@@ -45,6 +45,10 @@ html, body, .tm-layout__wrapper {
     background: var(--block-background-color);
 }
 
+.tm-rss-button_default {
+    background-color: transparent;
+}
+
 /* Pagination */
 
 .tm-pagination {
